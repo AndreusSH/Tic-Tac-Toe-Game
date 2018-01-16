@@ -1,0 +1,26 @@
+@charset "UTF-8"; 
+body {
+  
+  margin-left:500px;
+  margin-top:100px;
+  
+}table{ 
+  width:40%;
+  text-align: center;
+   
+}
+td,th {
+    border: 1px solid black;
+    height: 70px;
+  width:70px;
+}
+
+ .cross{
+  background-color: red;
+  
+}
+
+.circle{
+  background-color: green;
+  
+}
