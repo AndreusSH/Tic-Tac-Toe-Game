@@ -15,12 +15,16 @@ td,th {
   width:70px;
 }
 
- .cross{
-  background-color: red;
+.cross:after{
+ content:"X";
   
 }
 
-.circle{
-  background-color: green;
+.circle:after{
+  content: "O";
+}
+
+.winner{
   
+  background-color:red;
 }
